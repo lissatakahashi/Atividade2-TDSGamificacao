@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Pedidos de Restaurante <h1>
 Esta atividade foi feita na disciplina de Tecnologia em Desenvolvimento de Sistemas
 <br>
-Grupo: Bruna Eloisa Schvingel, Isabella Gon e Lissa Takahashi.
+Grupo: Bruna Eloisa Schvingel Tomaz, Isabella Gon e Lissa Takahashi.
 ## Classes básicas: <h2>
 * Mesa: representa as mesas do restaurante. Contém atributos como número da mesa e status da mesa (ocupada, livre), hora de abertura em caso de estar ocupada.
 * Garçon: representa os garçons do restaurante. Contém atributos como nome, sobrenome, número de identificação e número de telefone.
@@ -13,3 +13,4 @@ Associações: Um garçon pode atender várias mesas, registrando os produtos pe
 
 ## Instruções de como executar a aplicação <h2>
 Para executar o programa, faça o download do arquivo .zip e abra ele no Visual Studio Code, vá em ProjetoGerenciamentoRestaurante.API e em seguida Program.cs clique com o botão direito, abra o terminal e digite "dotnet watch run", assim será executada a API. Para executar as Pages, realiza-se o mesmo procedimento, porém em ProjetoGerenciamentoRestaurante.RazorPages.
+
